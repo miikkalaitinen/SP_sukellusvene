@@ -1,0 +1,2 @@
+# SP_sukellusvene
+Sähköpaja sukellusveneprojekti
